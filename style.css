@@ -1,0 +1,22 @@
+.container{
+    background-color: #1a1a2a;
+    color: #f5efeb;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Reggae One', cursive, Arial, Helvetica, sans-serif;
+}
+.container h1{
+    font-size: 5rem;
+}
+.content{
+    padding-top: 40vh;
+    text-align: center;
+}
+.btn{
+    border: 2px #cb1f2d solid;
+    border-radius: 2%;
+    background-color: #411428;
+    color: white;
+    margin: 4px 12px;
+    font-family: 'Reggae One', cursive, Arial, Helvetica, sans-serif;
+}

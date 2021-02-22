@@ -20,3 +20,6 @@
     margin: 4px 12px;
     font-family: 'Reggae One', cursive, Arial, Helvetica, sans-serif;
 }
+.btn:focus{
+    outline: none;
+}
